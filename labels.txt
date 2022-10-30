@@ -1,0 +1,2 @@
+0 icard
+1 nocard
